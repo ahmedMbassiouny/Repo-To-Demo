@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Repo To Demo",
+  "version": "1.0",
+  "description": "Quickly convert GitHub repository URLs to GitHub Pages (Demo) links for effortless Demo sharing .",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_icon": {
+      "48": "icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "Click me!"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
